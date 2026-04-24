@@ -83,3 +83,10 @@ The people who built the reference implementations are the people who shipped th
 ---
 
 *M87 Studio LLC — Category Definition v1.2*
+---
+
+## Sources
+
+- Gravitee, *State of AI Agent Security Report 2026* — "88% of organizations report either confirmed or suspected AI agent security or privacy incidents within the last year." https://www.gravitee.io/state-of-ai-agent-security
+
+- VentureBeat, *AI agent security maturity audit: enterprises funded stage one, stage-three threats arrived anyway* (coverage of Gravitee's 2026 survey) — "Only 21% have runtime visibility into what their agents are doing." https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds
